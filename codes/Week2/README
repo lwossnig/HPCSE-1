@@ -1,0 +1,29 @@
+#README FOR USING THE EULER CLUSTER; LEONARD WOSSNIG - 26.09.2014
+#
+#
+#To copy files to euler (go in homefolder first and if necessary create folders on euler first!):
+$ scp <filename or path> lwossnig@euler.ethz.ch:~</path if wanted>
+#
+#To get functions work from the start (log in): add them to .bashrc:
+$ vim .bashrc
+#
+#After updating .bashrc, use:
+$ source .bashrc
+#to load again
+#
+#To submit a job:
+$ bsub -W <time job> -n <number cores> ./<program name>
+$ bsub -W 00:10 -n 1 ./CPUexec
+#
+#Commands:
+$ bqueues //Displays information about queues
+$ bjobs //inf. about jobs (bjobs -l -u <username>
+$ bkill <jobID> // kills job
+$ Isf.<jobID> // created in your working directory when the job ends
+$ bsub -n 24 -W 08:00 -o output_file ./program_name program_args // Submits queue job with output (stats) into certain file
+$ bjobs // Gives status of jobs
+
+#To connect from your machine
+$ alias euler='sshfs lwossnig@euler.ethz.ch:/cluster/home/lwossnig ~/.git/euler_work_folder/'
+$ man sshfs
+
