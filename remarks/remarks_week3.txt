@@ -1,0 +1,6 @@
+- which rng? mt64? - see lecture slide C++11 (first lecture)
+- best program to visualize - Paraview
+- why is the program just working with certain parameters? - because of the stability condition, the program just runs for certain number of maximum step size! Therefore dt needs to be certain small! (Neumann stabilty)
+
+- monte carlo to determine one point? - make random walks ALWAYS starting from the same point! When you hit the boundary (where the boundary conditions are constant!) measure the value there hit_bnd(x,y) and make average 1/N *sum(i=1 - N) hit_bnd(x,y).
+- more efficient? - draw circle surrounding the point. step to random point on circle. New circle with new point in center. step to random point in circle.... continue till boundary is reached. Stop there. Decrease Radius of circle with each step.

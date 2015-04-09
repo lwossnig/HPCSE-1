@@ -1,0 +1,32 @@
+CC=mpic++
+
+CPPFLAGS += -I../source/ -fopenmp
+CPPFLAGSOPT += -O3
+LIBS += -lstdc++ -fopenmp
+
+OBJS_SHEET = \
+	mainSheet.o \
+	VelocitySolverNSquared.o
+
+OBJS_CYL = \
+	mainCylinder.o \
+	VelocitySolverNSquared.o
+
+VPATH := ../source/
+.DEFAULT_GOAL := sheet
+
+sheet: $(OBJS_SHEET)
+	$(CC) $(LIBS) $^ -o $@
+	@echo done
+
+%.o: %.cpp
+	$(CC)  $(CPPFLAGS) $(CPPFLAGSOPT) -c $^ -o $@
+
+clean:
+	rm -f *.o
+	rm -f sheet
+	rm -f cylinder
+
+all: sheet cylinder
+
+new: clean all

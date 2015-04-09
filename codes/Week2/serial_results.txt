@@ -1,0 +1,1129 @@
+steps: 128 - delta_t: 0.001 -  nthreads: 2 - time: 500
+begin iteration 0
+ Iterationd done. Iternating no: 0
+begin iteration 1
+ Iterationd done. Iternating no: 1
+begin iteration 2
+ Iterationd done. Iternating no: 2
+begin iteration 3
+ Iterationd done. Iternating no: 3
+begin iteration 4
+ Iterationd done. Iternating no: 4
+begin iteration 5
+ Iterationd done. Iternating no: 5
+begin iteration 6
+ Iterationd done. Iternating no: 6
+begin iteration 7
+ Iterationd done. Iternating no: 7
+begin iteration 8
+ Iterationd done. Iternating no: 8
+begin iteration 9
+ Iterationd done. Iternating no: 9
+begin iteration 10
+ Iterationd done. Iternating no: 10
+begin iteration 11
+ Iterationd done. Iternating no: 11
+begin iteration 12
+ Iterationd done. Iternating no: 12
+begin iteration 13
+ Iterationd done. Iternating no: 13
+begin iteration 14
+ Iterationd done. Iternating no: 14
+begin iteration 15
+ Iterationd done. Iternating no: 15
+begin iteration 16
+ Iterationd done. Iternating no: 16
+begin iteration 17
+ Iterationd done. Iternating no: 17
+begin iteration 18
+ Iterationd done. Iternating no: 18
+begin iteration 19
+ Iterationd done. Iternating no: 19
+begin iteration 20
+ Iterationd done. Iternating no: 20
+begin iteration 21
+ Iterationd done. Iternating no: 21
+begin iteration 22
+ Iterationd done. Iternating no: 22
+begin iteration 23
+ Iterationd done. Iternating no: 23
+begin iteration 24
+ Iterationd done. Iternating no: 24
+begin iteration 25
+ Iterationd done. Iternating no: 25
+begin iteration 26
+ Iterationd done. Iternating no: 26
+begin iteration 27
+ Iterationd done. Iternating no: 27
+begin iteration 28
+ Iterationd done. Iternating no: 28
+begin iteration 29
+ Iterationd done. Iternating no: 29
+begin iteration 30
+ Iterationd done. Iternating no: 30
+begin iteration 31
+ Iterationd done. Iternating no: 31
+begin iteration 32
+ Iterationd done. Iternating no: 32
+begin iteration 33
+ Iterationd done. Iternating no: 33
+begin iteration 34
+ Iterationd done. Iternating no: 34
+begin iteration 35
+ Iterationd done. Iternating no: 35
+begin iteration 36
+ Iterationd done. Iternating no: 36
+begin iteration 37
+ Iterationd done. Iternating no: 37
+begin iteration 38
+ Iterationd done. Iternating no: 38
+begin iteration 39
+ Iterationd done. Iternating no: 39
+begin iteration 40
+ Iterationd done. Iternating no: 40
+begin iteration 41
+ Iterationd done. Iternating no: 41
+begin iteration 42
+ Iterationd done. Iternating no: 42
+begin iteration 43
+ Iterationd done. Iternating no: 43
+begin iteration 44
+ Iterationd done. Iternating no: 44
+begin iteration 45
+ Iterationd done. Iternating no: 45
+begin iteration 46
+ Iterationd done. Iternating no: 46
+begin iteration 47
+ Iterationd done. Iternating no: 47
+begin iteration 48
+ Iterationd done. Iternating no: 48
+begin iteration 49
+ Iterationd done. Iternating no: 49
+begin iteration 50
+ Iterationd done. Iternating no: 50
+begin iteration 51
+ Iterationd done. Iternating no: 51
+begin iteration 52
+ Iterationd done. Iternating no: 52
+begin iteration 53
+ Iterationd done. Iternating no: 53
+begin iteration 54
+ Iterationd done. Iternating no: 54
+begin iteration 55
+ Iterationd done. Iternating no: 55
+begin iteration 56
+ Iterationd done. Iternating no: 56
+begin iteration 57
+ Iterationd done. Iternating no: 57
+begin iteration 58
+ Iterationd done. Iternating no: 58
+begin iteration 59
+ Iterationd done. Iternating no: 59
+begin iteration 60
+ Iterationd done. Iternating no: 60
+begin iteration 61
+ Iterationd done. Iternating no: 61
+begin iteration 62
+ Iterationd done. Iternating no: 62
+begin iteration 63
+ Iterationd done. Iternating no: 63
+begin iteration 64
+ Iterationd done. Iternating no: 64
+begin iteration 65
+ Iterationd done. Iternating no: 65
+begin iteration 66
+ Iterationd done. Iternating no: 66
+begin iteration 67
+ Iterationd done. Iternating no: 67
+begin iteration 68
+ Iterationd done. Iternating no: 68
+begin iteration 69
+ Iterationd done. Iternating no: 69
+begin iteration 70
+ Iterationd done. Iternating no: 70
+begin iteration 71
+ Iterationd done. Iternating no: 71
+begin iteration 72
+ Iterationd done. Iternating no: 72
+begin iteration 73
+ Iterationd done. Iternating no: 73
+begin iteration 74
+ Iterationd done. Iternating no: 74
+begin iteration 75
+ Iterationd done. Iternating no: 75
+begin iteration 76
+ Iterationd done. Iternating no: 76
+begin iteration 77
+ Iterationd done. Iternating no: 77
+begin iteration 78
+ Iterationd done. Iternating no: 78
+begin iteration 79
+ Iterationd done. Iternating no: 79
+begin iteration 80
+ Iterationd done. Iternating no: 80
+begin iteration 81
+ Iterationd done. Iternating no: 81
+begin iteration 82
+ Iterationd done. Iternating no: 82
+begin iteration 83
+ Iterationd done. Iternating no: 83
+begin iteration 84
+ Iterationd done. Iternating no: 84
+begin iteration 85
+ Iterationd done. Iternating no: 85
+begin iteration 86
+ Iterationd done. Iternating no: 86
+begin iteration 87
+ Iterationd done. Iternating no: 87
+begin iteration 88
+ Iterationd done. Iternating no: 88
+begin iteration 89
+ Iterationd done. Iternating no: 89
+begin iteration 90
+ Iterationd done. Iternating no: 90
+begin iteration 91
+ Iterationd done. Iternating no: 91
+begin iteration 92
+ Iterationd done. Iternating no: 92
+begin iteration 93
+ Iterationd done. Iternating no: 93
+begin iteration 94
+ Iterationd done. Iternating no: 94
+begin iteration 95
+ Iterationd done. Iternating no: 95
+begin iteration 96
+ Iterationd done. Iternating no: 96
+begin iteration 97
+ Iterationd done. Iternating no: 97
+begin iteration 98
+ Iterationd done. Iternating no: 98
+begin iteration 99
+ Iterationd done. Iternating no: 99
+begin iteration 100
+ Iterationd done. Iternating no: 100
+begin iteration 101
+ Iterationd done. Iternating no: 101
+begin iteration 102
+ Iterationd done. Iternating no: 102
+begin iteration 103
+ Iterationd done. Iternating no: 103
+begin iteration 104
+ Iterationd done. Iternating no: 104
+begin iteration 105
+ Iterationd done. Iternating no: 105
+begin iteration 106
+ Iterationd done. Iternating no: 106
+begin iteration 107
+ Iterationd done. Iternating no: 107
+begin iteration 108
+ Iterationd done. Iternating no: 108
+begin iteration 109
+ Iterationd done. Iternating no: 109
+begin iteration 110
+ Iterationd done. Iternating no: 110
+begin iteration 111
+ Iterationd done. Iternating no: 111
+begin iteration 112
+ Iterationd done. Iternating no: 112
+begin iteration 113
+ Iterationd done. Iternating no: 113
+begin iteration 114
+ Iterationd done. Iternating no: 114
+begin iteration 115
+ Iterationd done. Iternating no: 115
+begin iteration 116
+ Iterationd done. Iternating no: 116
+begin iteration 117
+ Iterationd done. Iternating no: 117
+begin iteration 118
+ Iterationd done. Iternating no: 118
+begin iteration 119
+ Iterationd done. Iternating no: 119
+begin iteration 120
+ Iterationd done. Iternating no: 120
+begin iteration 121
+ Iterationd done. Iternating no: 121
+begin iteration 122
+ Iterationd done. Iternating no: 122
+begin iteration 123
+ Iterationd done. Iternating no: 123
+begin iteration 124
+ Iterationd done. Iternating no: 124
+begin iteration 125
+ Iterationd done. Iternating no: 125
+begin iteration 126
+ Iterationd done. Iternating no: 126
+begin iteration 127
+ Iterationd done. Iternating no: 127
+begin iteration 128
+ Iterationd done. Iternating no: 128
+begin iteration 129
+ Iterationd done. Iternating no: 129
+begin iteration 130
+ Iterationd done. Iternating no: 130
+begin iteration 131
+ Iterationd done. Iternating no: 131
+begin iteration 132
+ Iterationd done. Iternating no: 132
+begin iteration 133
+ Iterationd done. Iternating no: 133
+begin iteration 134
+ Iterationd done. Iternating no: 134
+begin iteration 135
+ Iterationd done. Iternating no: 135
+begin iteration 136
+ Iterationd done. Iternating no: 136
+begin iteration 137
+ Iterationd done. Iternating no: 137
+begin iteration 138
+ Iterationd done. Iternating no: 138
+begin iteration 139
+ Iterationd done. Iternating no: 139
+begin iteration 140
+ Iterationd done. Iternating no: 140
+begin iteration 141
+ Iterationd done. Iternating no: 141
+begin iteration 142
+ Iterationd done. Iternating no: 142
+begin iteration 143
+ Iterationd done. Iternating no: 143
+begin iteration 144
+ Iterationd done. Iternating no: 144
+begin iteration 145
+ Iterationd done. Iternating no: 145
+begin iteration 146
+ Iterationd done. Iternating no: 146
+begin iteration 147
+ Iterationd done. Iternating no: 147
+begin iteration 148
+ Iterationd done. Iternating no: 148
+begin iteration 149
+ Iterationd done. Iternating no: 149
+begin iteration 150
+ Iterationd done. Iternating no: 150
+begin iteration 151
+ Iterationd done. Iternating no: 151
+begin iteration 152
+ Iterationd done. Iternating no: 152
+begin iteration 153
+ Iterationd done. Iternating no: 153
+begin iteration 154
+ Iterationd done. Iternating no: 154
+begin iteration 155
+ Iterationd done. Iternating no: 155
+begin iteration 156
+ Iterationd done. Iternating no: 156
+begin iteration 157
+ Iterationd done. Iternating no: 157
+begin iteration 158
+ Iterationd done. Iternating no: 158
+begin iteration 159
+ Iterationd done. Iternating no: 159
+begin iteration 160
+ Iterationd done. Iternating no: 160
+begin iteration 161
+ Iterationd done. Iternating no: 161
+begin iteration 162
+ Iterationd done. Iternating no: 162
+begin iteration 163
+ Iterationd done. Iternating no: 163
+begin iteration 164
+ Iterationd done. Iternating no: 164
+begin iteration 165
+ Iterationd done. Iternating no: 165
+begin iteration 166
+ Iterationd done. Iternating no: 166
+begin iteration 167
+ Iterationd done. Iternating no: 167
+begin iteration 168
+ Iterationd done. Iternating no: 168
+begin iteration 169
+ Iterationd done. Iternating no: 169
+begin iteration 170
+ Iterationd done. Iternating no: 170
+begin iteration 171
+ Iterationd done. Iternating no: 171
+begin iteration 172
+ Iterationd done. Iternating no: 172
+begin iteration 173
+ Iterationd done. Iternating no: 173
+begin iteration 174
+ Iterationd done. Iternating no: 174
+begin iteration 175
+ Iterationd done. Iternating no: 175
+begin iteration 176
+ Iterationd done. Iternating no: 176
+begin iteration 177
+ Iterationd done. Iternating no: 177
+begin iteration 178
+ Iterationd done. Iternating no: 178
+begin iteration 179
+ Iterationd done. Iternating no: 179
+begin iteration 180
+ Iterationd done. Iternating no: 180
+begin iteration 181
+ Iterationd done. Iternating no: 181
+begin iteration 182
+ Iterationd done. Iternating no: 182
+begin iteration 183
+ Iterationd done. Iternating no: 183
+begin iteration 184
+ Iterationd done. Iternating no: 184
+begin iteration 185
+ Iterationd done. Iternating no: 185
+begin iteration 186
+ Iterationd done. Iternating no: 186
+begin iteration 187
+ Iterationd done. Iternating no: 187
+begin iteration 188
+ Iterationd done. Iternating no: 188
+begin iteration 189
+ Iterationd done. Iternating no: 189
+begin iteration 190
+ Iterationd done. Iternating no: 190
+begin iteration 191
+ Iterationd done. Iternating no: 191
+begin iteration 192
+ Iterationd done. Iternating no: 192
+begin iteration 193
+ Iterationd done. Iternating no: 193
+begin iteration 194
+ Iterationd done. Iternating no: 194
+begin iteration 195
+ Iterationd done. Iternating no: 195
+begin iteration 196
+ Iterationd done. Iternating no: 196
+begin iteration 197
+ Iterationd done. Iternating no: 197
+begin iteration 198
+ Iterationd done. Iternating no: 198
+begin iteration 199
+ Iterationd done. Iternating no: 199
+begin iteration 200
+ Iterationd done. Iternating no: 200
+begin iteration 201
+ Iterationd done. Iternating no: 201
+begin iteration 202
+ Iterationd done. Iternating no: 202
+begin iteration 203
+ Iterationd done. Iternating no: 203
+begin iteration 204
+ Iterationd done. Iternating no: 204
+begin iteration 205
+ Iterationd done. Iternating no: 205
+begin iteration 206
+ Iterationd done. Iternating no: 206
+begin iteration 207
+ Iterationd done. Iternating no: 207
+begin iteration 208
+ Iterationd done. Iternating no: 208
+begin iteration 209
+ Iterationd done. Iternating no: 209
+begin iteration 210
+ Iterationd done. Iternating no: 210
+begin iteration 211
+ Iterationd done. Iternating no: 211
+begin iteration 212
+ Iterationd done. Iternating no: 212
+begin iteration 213
+ Iterationd done. Iternating no: 213
+begin iteration 214
+ Iterationd done. Iternating no: 214
+begin iteration 215
+ Iterationd done. Iternating no: 215
+begin iteration 216
+ Iterationd done. Iternating no: 216
+begin iteration 217
+ Iterationd done. Iternating no: 217
+begin iteration 218
+ Iterationd done. Iternating no: 218
+begin iteration 219
+ Iterationd done. Iternating no: 219
+begin iteration 220
+ Iterationd done. Iternating no: 220
+begin iteration 221
+ Iterationd done. Iternating no: 221
+begin iteration 222
+ Iterationd done. Iternating no: 222
+begin iteration 223
+ Iterationd done. Iternating no: 223
+begin iteration 224
+ Iterationd done. Iternating no: 224
+begin iteration 225
+ Iterationd done. Iternating no: 225
+begin iteration 226
+ Iterationd done. Iternating no: 226
+begin iteration 227
+ Iterationd done. Iternating no: 227
+begin iteration 228
+ Iterationd done. Iternating no: 228
+begin iteration 229
+ Iterationd done. Iternating no: 229
+begin iteration 230
+ Iterationd done. Iternating no: 230
+begin iteration 231
+ Iterationd done. Iternating no: 231
+begin iteration 232
+ Iterationd done. Iternating no: 232
+begin iteration 233
+ Iterationd done. Iternating no: 233
+begin iteration 234
+ Iterationd done. Iternating no: 234
+begin iteration 235
+ Iterationd done. Iternating no: 235
+begin iteration 236
+ Iterationd done. Iternating no: 236
+begin iteration 237
+ Iterationd done. Iternating no: 237
+begin iteration 238
+ Iterationd done. Iternating no: 238
+begin iteration 239
+ Iterationd done. Iternating no: 239
+begin iteration 240
+ Iterationd done. Iternating no: 240
+begin iteration 241
+ Iterationd done. Iternating no: 241
+begin iteration 242
+ Iterationd done. Iternating no: 242
+begin iteration 243
+ Iterationd done. Iternating no: 243
+begin iteration 244
+ Iterationd done. Iternating no: 244
+begin iteration 245
+ Iterationd done. Iternating no: 245
+begin iteration 246
+ Iterationd done. Iternating no: 246
+begin iteration 247
+ Iterationd done. Iternating no: 247
+begin iteration 248
+ Iterationd done. Iternating no: 248
+begin iteration 249
+ Iterationd done. Iternating no: 249
+begin iteration 250
+ Iterationd done. Iternating no: 250
+begin iteration 251
+ Iterationd done. Iternating no: 251
+begin iteration 252
+ Iterationd done. Iternating no: 252
+begin iteration 253
+ Iterationd done. Iternating no: 253
+begin iteration 254
+ Iterationd done. Iternating no: 254
+begin iteration 255
+ Iterationd done. Iternating no: 255
+begin iteration 256
+ Iterationd done. Iternating no: 256
+begin iteration 257
+ Iterationd done. Iternating no: 257
+begin iteration 258
+ Iterationd done. Iternating no: 258
+begin iteration 259
+ Iterationd done. Iternating no: 259
+begin iteration 260
+ Iterationd done. Iternating no: 260
+begin iteration 261
+ Iterationd done. Iternating no: 261
+begin iteration 262
+ Iterationd done. Iternating no: 262
+begin iteration 263
+ Iterationd done. Iternating no: 263
+begin iteration 264
+ Iterationd done. Iternating no: 264
+begin iteration 265
+ Iterationd done. Iternating no: 265
+begin iteration 266
+ Iterationd done. Iternating no: 266
+begin iteration 267
+ Iterationd done. Iternating no: 267
+begin iteration 268
+ Iterationd done. Iternating no: 268
+begin iteration 269
+ Iterationd done. Iternating no: 269
+begin iteration 270
+ Iterationd done. Iternating no: 270
+begin iteration 271
+ Iterationd done. Iternating no: 271
+begin iteration 272
+ Iterationd done. Iternating no: 272
+begin iteration 273
+ Iterationd done. Iternating no: 273
+begin iteration 274
+ Iterationd done. Iternating no: 274
+begin iteration 275
+ Iterationd done. Iternating no: 275
+begin iteration 276
+ Iterationd done. Iternating no: 276
+begin iteration 277
+ Iterationd done. Iternating no: 277
+begin iteration 278
+ Iterationd done. Iternating no: 278
+begin iteration 279
+ Iterationd done. Iternating no: 279
+begin iteration 280
+ Iterationd done. Iternating no: 280
+begin iteration 281
+ Iterationd done. Iternating no: 281
+begin iteration 282
+ Iterationd done. Iternating no: 282
+begin iteration 283
+ Iterationd done. Iternating no: 283
+begin iteration 284
+ Iterationd done. Iternating no: 284
+begin iteration 285
+ Iterationd done. Iternating no: 285
+begin iteration 286
+ Iterationd done. Iternating no: 286
+begin iteration 287
+ Iterationd done. Iternating no: 287
+begin iteration 288
+ Iterationd done. Iternating no: 288
+begin iteration 289
+ Iterationd done. Iternating no: 289
+begin iteration 290
+ Iterationd done. Iternating no: 290
+begin iteration 291
+ Iterationd done. Iternating no: 291
+begin iteration 292
+ Iterationd done. Iternating no: 292
+begin iteration 293
+ Iterationd done. Iternating no: 293
+begin iteration 294
+ Iterationd done. Iternating no: 294
+begin iteration 295
+ Iterationd done. Iternating no: 295
+begin iteration 296
+ Iterationd done. Iternating no: 296
+begin iteration 297
+ Iterationd done. Iternating no: 297
+begin iteration 298
+ Iterationd done. Iternating no: 298
+begin iteration 299
+ Iterationd done. Iternating no: 299
+begin iteration 300
+ Iterationd done. Iternating no: 300
+begin iteration 301
+ Iterationd done. Iternating no: 301
+begin iteration 302
+ Iterationd done. Iternating no: 302
+begin iteration 303
+ Iterationd done. Iternating no: 303
+begin iteration 304
+ Iterationd done. Iternating no: 304
+begin iteration 305
+ Iterationd done. Iternating no: 305
+begin iteration 306
+ Iterationd done. Iternating no: 306
+begin iteration 307
+ Iterationd done. Iternating no: 307
+begin iteration 308
+ Iterationd done. Iternating no: 308
+begin iteration 309
+ Iterationd done. Iternating no: 309
+begin iteration 310
+ Iterationd done. Iternating no: 310
+begin iteration 311
+ Iterationd done. Iternating no: 311
+begin iteration 312
+ Iterationd done. Iternating no: 312
+begin iteration 313
+ Iterationd done. Iternating no: 313
+begin iteration 314
+ Iterationd done. Iternating no: 314
+begin iteration 315
+ Iterationd done. Iternating no: 315
+begin iteration 316
+ Iterationd done. Iternating no: 316
+begin iteration 317
+ Iterationd done. Iternating no: 317
+begin iteration 318
+ Iterationd done. Iternating no: 318
+begin iteration 319
+ Iterationd done. Iternating no: 319
+begin iteration 320
+ Iterationd done. Iternating no: 320
+begin iteration 321
+ Iterationd done. Iternating no: 321
+begin iteration 322
+ Iterationd done. Iternating no: 322
+begin iteration 323
+ Iterationd done. Iternating no: 323
+begin iteration 324
+ Iterationd done. Iternating no: 324
+begin iteration 325
+ Iterationd done. Iternating no: 325
+begin iteration 326
+ Iterationd done. Iternating no: 326
+begin iteration 327
+ Iterationd done. Iternating no: 327
+begin iteration 328
+ Iterationd done. Iternating no: 328
+begin iteration 329
+ Iterationd done. Iternating no: 329
+begin iteration 330
+ Iterationd done. Iternating no: 330
+begin iteration 331
+ Iterationd done. Iternating no: 331
+begin iteration 332
+ Iterationd done. Iternating no: 332
+begin iteration 333
+ Iterationd done. Iternating no: 333
+begin iteration 334
+ Iterationd done. Iternating no: 334
+begin iteration 335
+ Iterationd done. Iternating no: 335
+begin iteration 336
+ Iterationd done. Iternating no: 336
+begin iteration 337
+ Iterationd done. Iternating no: 337
+begin iteration 338
+ Iterationd done. Iternating no: 338
+begin iteration 339
+ Iterationd done. Iternating no: 339
+begin iteration 340
+ Iterationd done. Iternating no: 340
+begin iteration 341
+ Iterationd done. Iternating no: 341
+begin iteration 342
+ Iterationd done. Iternating no: 342
+begin iteration 343
+ Iterationd done. Iternating no: 343
+begin iteration 344
+ Iterationd done. Iternating no: 344
+begin iteration 345
+ Iterationd done. Iternating no: 345
+begin iteration 346
+ Iterationd done. Iternating no: 346
+begin iteration 347
+ Iterationd done. Iternating no: 347
+begin iteration 348
+ Iterationd done. Iternating no: 348
+begin iteration 349
+ Iterationd done. Iternating no: 349
+begin iteration 350
+ Iterationd done. Iternating no: 350
+begin iteration 351
+ Iterationd done. Iternating no: 351
+begin iteration 352
+ Iterationd done. Iternating no: 352
+begin iteration 353
+ Iterationd done. Iternating no: 353
+begin iteration 354
+ Iterationd done. Iternating no: 354
+begin iteration 355
+ Iterationd done. Iternating no: 355
+begin iteration 356
+ Iterationd done. Iternating no: 356
+begin iteration 357
+ Iterationd done. Iternating no: 357
+begin iteration 358
+ Iterationd done. Iternating no: 358
+begin iteration 359
+ Iterationd done. Iternating no: 359
+begin iteration 360
+ Iterationd done. Iternating no: 360
+begin iteration 361
+ Iterationd done. Iternating no: 361
+begin iteration 362
+ Iterationd done. Iternating no: 362
+begin iteration 363
+ Iterationd done. Iternating no: 363
+begin iteration 364
+ Iterationd done. Iternating no: 364
+begin iteration 365
+ Iterationd done. Iternating no: 365
+begin iteration 366
+ Iterationd done. Iternating no: 366
+begin iteration 367
+ Iterationd done. Iternating no: 367
+begin iteration 368
+ Iterationd done. Iternating no: 368
+begin iteration 369
+ Iterationd done. Iternating no: 369
+begin iteration 370
+ Iterationd done. Iternating no: 370
+begin iteration 371
+ Iterationd done. Iternating no: 371
+begin iteration 372
+ Iterationd done. Iternating no: 372
+begin iteration 373
+ Iterationd done. Iternating no: 373
+begin iteration 374
+ Iterationd done. Iternating no: 374
+begin iteration 375
+ Iterationd done. Iternating no: 375
+begin iteration 376
+ Iterationd done. Iternating no: 376
+begin iteration 377
+ Iterationd done. Iternating no: 377
+begin iteration 378
+ Iterationd done. Iternating no: 378
+begin iteration 379
+ Iterationd done. Iternating no: 379
+begin iteration 380
+ Iterationd done. Iternating no: 380
+begin iteration 381
+ Iterationd done. Iternating no: 381
+begin iteration 382
+ Iterationd done. Iternating no: 382
+begin iteration 383
+ Iterationd done. Iternating no: 383
+begin iteration 384
+ Iterationd done. Iternating no: 384
+begin iteration 385
+ Iterationd done. Iternating no: 385
+begin iteration 386
+ Iterationd done. Iternating no: 386
+begin iteration 387
+ Iterationd done. Iternating no: 387
+begin iteration 388
+ Iterationd done. Iternating no: 388
+begin iteration 389
+ Iterationd done. Iternating no: 389
+begin iteration 390
+ Iterationd done. Iternating no: 390
+begin iteration 391
+ Iterationd done. Iternating no: 391
+begin iteration 392
+ Iterationd done. Iternating no: 392
+begin iteration 393
+ Iterationd done. Iternating no: 393
+begin iteration 394
+ Iterationd done. Iternating no: 394
+begin iteration 395
+ Iterationd done. Iternating no: 395
+begin iteration 396
+ Iterationd done. Iternating no: 396
+begin iteration 397
+ Iterationd done. Iternating no: 397
+begin iteration 398
+ Iterationd done. Iternating no: 398
+begin iteration 399
+ Iterationd done. Iternating no: 399
+begin iteration 400
+ Iterationd done. Iternating no: 400
+begin iteration 401
+ Iterationd done. Iternating no: 401
+begin iteration 402
+ Iterationd done. Iternating no: 402
+begin iteration 403
+ Iterationd done. Iternating no: 403
+begin iteration 404
+ Iterationd done. Iternating no: 404
+begin iteration 405
+ Iterationd done. Iternating no: 405
+begin iteration 406
+ Iterationd done. Iternating no: 406
+begin iteration 407
+ Iterationd done. Iternating no: 407
+begin iteration 408
+ Iterationd done. Iternating no: 408
+begin iteration 409
+ Iterationd done. Iternating no: 409
+begin iteration 410
+ Iterationd done. Iternating no: 410
+begin iteration 411
+ Iterationd done. Iternating no: 411
+begin iteration 412
+ Iterationd done. Iternating no: 412
+begin iteration 413
+ Iterationd done. Iternating no: 413
+begin iteration 414
+ Iterationd done. Iternating no: 414
+begin iteration 415
+ Iterationd done. Iternating no: 415
+begin iteration 416
+ Iterationd done. Iternating no: 416
+begin iteration 417
+ Iterationd done. Iternating no: 417
+begin iteration 418
+ Iterationd done. Iternating no: 418
+begin iteration 419
+ Iterationd done. Iternating no: 419
+begin iteration 420
+ Iterationd done. Iternating no: 420
+begin iteration 421
+ Iterationd done. Iternating no: 421
+begin iteration 422
+ Iterationd done. Iternating no: 422
+begin iteration 423
+ Iterationd done. Iternating no: 423
+begin iteration 424
+ Iterationd done. Iternating no: 424
+begin iteration 425
+ Iterationd done. Iternating no: 425
+begin iteration 426
+ Iterationd done. Iternating no: 426
+begin iteration 427
+ Iterationd done. Iternating no: 427
+begin iteration 428
+ Iterationd done. Iternating no: 428
+begin iteration 429
+ Iterationd done. Iternating no: 429
+begin iteration 430
+ Iterationd done. Iternating no: 430
+begin iteration 431
+ Iterationd done. Iternating no: 431
+begin iteration 432
+ Iterationd done. Iternating no: 432
+begin iteration 433
+ Iterationd done. Iternating no: 433
+begin iteration 434
+ Iterationd done. Iternating no: 434
+begin iteration 435
+ Iterationd done. Iternating no: 435
+begin iteration 436
+ Iterationd done. Iternating no: 436
+begin iteration 437
+ Iterationd done. Iternating no: 437
+begin iteration 438
+ Iterationd done. Iternating no: 438
+begin iteration 439
+ Iterationd done. Iternating no: 439
+begin iteration 440
+ Iterationd done. Iternating no: 440
+begin iteration 441
+ Iterationd done. Iternating no: 441
+begin iteration 442
+ Iterationd done. Iternating no: 442
+begin iteration 443
+ Iterationd done. Iternating no: 443
+begin iteration 444
+ Iterationd done. Iternating no: 444
+begin iteration 445
+ Iterationd done. Iternating no: 445
+begin iteration 446
+ Iterationd done. Iternating no: 446
+begin iteration 447
+ Iterationd done. Iternating no: 447
+begin iteration 448
+ Iterationd done. Iternating no: 448
+begin iteration 449
+ Iterationd done. Iternating no: 449
+begin iteration 450
+ Iterationd done. Iternating no: 450
+begin iteration 451
+ Iterationd done. Iternating no: 451
+begin iteration 452
+ Iterationd done. Iternating no: 452
+begin iteration 453
+ Iterationd done. Iternating no: 453
+begin iteration 454
+ Iterationd done. Iternating no: 454
+begin iteration 455
+ Iterationd done. Iternating no: 455
+begin iteration 456
+ Iterationd done. Iternating no: 456
+begin iteration 457
+ Iterationd done. Iternating no: 457
+begin iteration 458
+ Iterationd done. Iternating no: 458
+begin iteration 459
+ Iterationd done. Iternating no: 459
+begin iteration 460
+ Iterationd done. Iternating no: 460
+begin iteration 461
+ Iterationd done. Iternating no: 461
+begin iteration 462
+ Iterationd done. Iternating no: 462
+begin iteration 463
+ Iterationd done. Iternating no: 463
+begin iteration 464
+ Iterationd done. Iternating no: 464
+begin iteration 465
+ Iterationd done. Iternating no: 465
+begin iteration 466
+ Iterationd done. Iternating no: 466
+begin iteration 467
+ Iterationd done. Iternating no: 467
+begin iteration 468
+ Iterationd done. Iternating no: 468
+begin iteration 469
+ Iterationd done. Iternating no: 469
+begin iteration 470
+ Iterationd done. Iternating no: 470
+begin iteration 471
+ Iterationd done. Iternating no: 471
+begin iteration 472
+ Iterationd done. Iternating no: 472
+begin iteration 473
+ Iterationd done. Iternating no: 473
+begin iteration 474
+ Iterationd done. Iternating no: 474
+begin iteration 475
+ Iterationd done. Iternating no: 475
+begin iteration 476
+ Iterationd done. Iternating no: 476
+begin iteration 477
+ Iterationd done. Iternating no: 477
+begin iteration 478
+ Iterationd done. Iternating no: 478
+begin iteration 479
+ Iterationd done. Iternating no: 479
+begin iteration 480
+ Iterationd done. Iternating no: 480
+begin iteration 481
+ Iterationd done. Iternating no: 481
+begin iteration 482
+ Iterationd done. Iternating no: 482
+begin iteration 483
+ Iterationd done. Iternating no: 483
+begin iteration 484
+ Iterationd done. Iternating no: 484
+begin iteration 485
+ Iterationd done. Iternating no: 485
+begin iteration 486
+ Iterationd done. Iternating no: 486
+begin iteration 487
+ Iterationd done. Iternating no: 487
+begin iteration 488
+ Iterationd done. Iternating no: 488
+begin iteration 489
+ Iterationd done. Iternating no: 489
+begin iteration 490
+ Iterationd done. Iternating no: 490
+begin iteration 491
+ Iterationd done. Iternating no: 491
+begin iteration 492
+ Iterationd done. Iternating no: 492
+begin iteration 493
+ Iterationd done. Iternating no: 493
+begin iteration 494
+ Iterationd done. Iternating no: 494
+begin iteration 495
+ Iterationd done. Iternating no: 495
+begin iteration 496
+ Iterationd done. Iternating no: 496
+begin iteration 497
+ Iterationd done. Iternating no: 497
+begin iteration 498
+ Iterationd done. Iternating no: 498
+begin iteration 499
+ Iterationd done. Iternating no: 499
+      0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan     -nan        0  
+      0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0        0  
