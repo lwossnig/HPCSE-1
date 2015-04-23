@@ -1,0 +1,76 @@
+\documentclass[12pt]{scrbook}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[ngerman]{babel}
+\usepackage{mathrsfs}
+\usepackage{amsmath, amssymb, amsfonts, amsthm}
+\usepackage{array}
+\usepackage{cite}
+\usepackage{braket}
+\usepackage{dsfont}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{caption}
+\usepackage[automark]{scrpage2}
+%\usepackage[export]{adjustbox}
+\usepackage{verbatim}
+
+\usepackage{float}
+
+\newcommand{\changefont}[3]{\fontfamily{#1}\fontseries{#2}\fontshape{#3}\selectfont}
+
+\usepackage[hyperfigures =true ,linkcolor =black, urlcolor=blue, colorlinks =true, citecolor=black ,pdfauthor ={ Leonard Peter Wossnig},pdftitle ={exercises in HPCSE},pdfcreator ={ pdfLaTeX }]{hyperref}
+
+\definecolor{mygray}{rgb}{0.98,0.98,0.98}
+\definecolor{darkgray}{rgb}{0.6,0.6,0.6}
+\definecolor{mygreen}{rgb}{0.0,0.5,0.0}
+\definecolor{myblue}{rgb}{0.0,0.0,0.5}
+%\definecolor{mypurple}{rgb}{0.5,0.0,0.5}
+
+\lstdefinelanguage[]{CodeBlocks}{classoffset=0, language=C++,commentstyle=\tiny\color{darkgray}, comment=[l]{//},morecomment=[s]{/*}{*/}, columns=flexible, basicstyle = \tiny, backgroundcolor=\color{mygray}, frame=single, keepspaces=false, keywordstyle=\color{red}, breaklines = false, aboveskip = 1.2em,belowskip = 1.5em, directivestyle=\color{mygreen}, ,classoffset=2, otherkeywords={(,),[,],<<,>>,++,--,=,+=,-=,;,&,&&,+,-,!,\{,\},::,<,>,\#}, classoffset=0, emph={bool, double, int, for, if, else, ifelse, return, void, namespace, using, const, float, long, }, emphstyle=\color{blue}, stringstyle = \color{darkgray}}
+
+
+
+\begin{document}
+
+\section{Exercise 6 - HPCSE - Leonard Wossnig}
+\subsection{Task 1.}
+The calculation for PP and PB results in the following solutions:\\
+PP calculates as: (Instructions per clock) $\times$ (no. of cores) $\times$ (Processor Clock/sec) \\
+Intel Xeon processor E5-2697 v2 PP:\\ 8 Flops/clock x 12 cores/socket x 2 sockets x 2.7 GHz = 518.4 GFLOPS/s \\
+PP is calculated as: (channel size) $\times$ (channels) $\times$ (Memory Clock/sec)\\
+Intel Xeon processor E5-2697 v2 PB:\\ 8 bytes/channel x 4 channels x 2 sockets x 1.866 GHz = 119.4 GByte/s \\
+The above used data are taken from the Intel homepage for the E5-2697 v2 \\
+(Source: http://www.intel.de/content/www/de/de/benchmarks/server/xeon-phi/xeon-phi-theoretical-maximums.html?redirect=/content/www/de/de/benchmarks/server/xeon-phi/xeon-phi-theoretical-maximums.html\&locale=/de/de )\\
+More specific, the PB for one socket is:\\
+8 bytes/channel x 4 channels x 1.866 GHz = 59.7 GByte/s
+
+\subsection{Task 2.}
+How to calculate the Operational Intensity? \\
+The Operational Intensity is calculated in your code by: $$ \text{Operational Intensity }=	 \frac{\text{Number of FLOPS}}{\text{Number of Bytes used (read, safed,...)}}$$. For drawing the Roofline you anyways don't have to specify it in detail, since you just draw the formula:$$ \text{Maximum Performance }[GFLOPS/s] = min(OI * PB, PP)$$ 
+Then draw $IO$ in range e.g. [0.1,1.0] or, more specific, until you reach the PP.
+The Bandwidth is the maximum Bandwidth (e.g. here: 59,7 GBytes/s). 
+
+\begin{comment}
+\begin{minipage}[!t]{0.5\textwidth}
+\includegraphics[width=\textwidth, keepaspectratio]{}
+\end{minipage}
+\begin{minipage}[!t]{0.5	\textwidth}
+\includegraphics[width=\textwidth]{}
+\end{minipage}
+\end{comment}
+
+\subsection{Appendix}
+In the following i append the source code of some of the tasks:\\
+\begin{lstlisting}[language=CodeBlocks]
+
+\end{lstlisting}
+
+while for multiple runs the program was executed with the following script file:
+\begin{lstlisting}[language=CodeBlocks]
+ 
+\end{lstlisting}
+\end{document}

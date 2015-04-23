@@ -1,0 +1,43 @@
+Q: How can i find the simd width of my local machine and the Flop/cycle ?
+
+A:
+It is not easy to find unless you know what to look for.
+You can read it of your cpuinfo output.
+You can usually determine it by the flags/features.
+If x86 CPUs have "sse", "sse2",...,"sse4_2" or other sse flags it
+supports at least 128bit SIMD width.
+If your flags also lists "avx" the CPU supports 256bit SIMD width.
+The next generation of Intel will have "avx512", which are 512bit SIMD
+width.
+
+In your case:
+> The output for the cpuinfo is:
+> ============================
+> processor    : 0
+> [...]
+> flags        : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca
+> cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt
+> pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc extd_apicid
+> aperfmperf eagerfpu pni pclmulqdq monitor ssse3 cx16 sse4_1 sse4_2 movbe
+> popcnt aes xsave avx f16c lahf_lm cmp_legacy svm extapic cr8_legacy abm
+> sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt topoext perfctr_nb
+> perfctr_l2 arat xsaveopt hw_pstate proc_feedback npt lbrv svm_lock
+> nrip_save tsc_scale flushbyasid decodeassists pausefilter pfthreshold bmi1
+
+Your CPU supports AVX, hence the SIMD width is 256bit.
+
+The FLOP/cycle thing is even more cumbersome, because CPUs have become
+really complicated nowadays. Usually you find some information on the
+"instruction throughput" in the manuals of the CPUs(e.g.[1]) which
+specifies how many cycles (sometimes fractions of a cycle) you have to
+wait until the CPU can perform the same operation again.
+This number varies on the particular instruction. You could use the add
+operation as a reference for the FLOP/cycle.
+
+However, modern CPUs are "superscalar" and may perform different
+operations (eg. add and multiply) at the same time. If you want to get
+the real number you really have to dive deep into the manual...
+
+[1] Appendix C3 of
+Intel® 64 and IA-32 Architectures Optimization Reference Manual
+http://www.intel.com/content/www/us/en/architecture-and-technology/64-ia-32-architectures-optimization-manual.html

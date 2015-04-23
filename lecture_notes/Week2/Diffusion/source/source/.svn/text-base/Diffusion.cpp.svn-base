@@ -1,0 +1,189 @@
+/*
+ *  Diffusion.cpp
+ *
+ *  Created by Christian Conti on 11/12/2012
+ *  Copyright 2012 ETH Zurich. All rights reserved.
+ *
+ */
+
+#include <iostream>
+#include <fstream>
+#include <cmath>
+#include <cassert>
+#include <iomanip>
+#include <vector>
+
+#include "Diffusion.h"
+
+using namespace std;
+
+// Thomas algorithm for solving tridiagonal systems
+void Diffusion::Thomas(int dir, int i, Real coeff)
+{
+	// solves tridiagonal system of type Ax=v
+	
+#ifndef NDEBUG
+	// ensure that we are only treating x and y directions
+	assert(dir==0 || dir==1);
+#endif
+	
+	// temporary vector to store the modified main diagonal of the tridiagonal matrix
+	vector<Real> b_tmp(size, 2.*coeff+1.);
+	
+	if (dir==0)
+	{
+		// x direction
+		//	grid contains solution at time t
+		//	grid_tmp contains solution at time t+dt/2
+		
+		// compute modified coefficients
+		for (unsigned int ix=1; ix<size-1; ix++)
+		{
+			const Real m = -coeff / b_tmp[ix-1];
+			b_tmp[ix] += m * coeff;
+			grid(ix,i) -= m * grid(ix-1,i);
+		}
+		
+		// back substitution phase
+		grid_tmp(size-2,i) = grid(size-2,i) / b_tmp[size-2];
+		
+		for (int ix=size-3; ix>=1; ix--)
+			grid_tmp(ix,i) = (grid(ix,i) + coeff*grid_tmp(ix+1,i)) / b_tmp[ix];
+	}
+	else
+	{
+		// y direction
+		//	grid_tmp contains solution at time t+dt/2
+		//	grid contains solution at time t+dt
+		
+		// compute modified coefficients
+		for (unsigned int iy=1; iy<size-1; iy++)
+		{
+			const Real m = -coeff / b_tmp[iy-1];
+			b_tmp[iy] += m * coeff;
+			grid_tmp(i,iy) -= m * grid_tmp(i,iy-1);
+		}
+		
+		// back substitution phase
+		grid(i,size-2) = grid_tmp(i,size-2) / b_tmp[size-2];
+		
+		for (int iy=size-3; iy>=1; iy--)
+			grid(i,iy) = (grid_tmp(i,iy) + coeff*grid(i,iy+1)) / b_tmp[iy];
+	}
+}
+
+
+Diffusion::Diffusion(unsigned int size, Real D) : grid(size,size), grid_tmp(size,size), grid_tmp2(size,size), size(size), D(D), dh(2./(Real)size)
+{
+	dh2 = dh*dh;
+	
+	// set initial conditions
+	// parallel for, for NUMA 1st touch policy
+#pragma omp parallel for
+	for (unsigned int iy=0; iy<size; iy++)
+		for (unsigned int ix=0; ix<size; ix++)
+		{
+			grid(ix,iy)      = abs(dh*ix-1.)<.5 && abs(dh*iy-1.)<.5;
+			grid_tmp(ix,iy)  = abs(dh*ix-1.)<.5 && abs(dh*iy-1.)<.5;
+			grid_tmp2(ix,iy) = abs(dh*ix-1.)<.5 && abs(dh*iy-1.)<.5;
+		}
+}
+
+// Compute a single diffusion step with ADI
+//	"swaps" are implicitly done which each substep of ADI so that the result is stored in grid:
+//		- Implicit integration in x: grid      -> grid_tmp
+//		- Explicit integration in y: grid_tmp2 -> grid_tmp
+//		- Implicit integration in y: grid_tmp  -> grid
+//		- Explicit integration in x: grid_tmp2 -> grid
+void Diffusion::ADI(Real dt)
+{
+	const Real coeff = D*dt/2./dh2;
+	
+	// Implicit x
+#pragma omp parallel for
+	for (unsigned int iy=1; iy<size-1; iy++)
+		Thomas(0,iy,coeff);
+		
+	// Explicit y
+#pragma omp parallel for
+	for (unsigned int iy=1; iy<size-1; iy++)
+		for (unsigned int ix=1; ix<size-1; ix++)
+			grid_tmp(ix,iy) += coeff * (grid_tmp2(ix,iy-1) - 2 * grid_tmp2(ix,iy) + grid_tmp2(ix,iy+1));
+	
+	// copy grid into grid_tmp2 for next explicit Euler
+#pragma omp parallel for
+	for (unsigned int iy=0; iy<size; iy++)
+		for (unsigned int ix=0; ix<size; ix++)
+			grid_tmp2(ix,iy) = grid_tmp(ix,iy);
+	
+	// Implicit y
+#pragma omp parallel for
+	for (unsigned int ix=1; ix<size-1; ix++)
+		Thomas(1,ix,coeff);
+		
+	// Explicit x
+#pragma omp parallel for
+	for (unsigned int iy=1; iy<size-1; iy++)
+		for (unsigned int ix=1; ix<size-1; ix++)
+			grid(ix,iy) += coeff * (grid_tmp2(ix-1,iy) - 2 * grid_tmp2(ix,iy) + grid_tmp2(ix+1,iy));
+	
+	// copy grid into grid_tmp2 for next explicit Euler
+#pragma omp parallel for
+	for (unsigned int iy=0; iy<size; iy++)
+		for (unsigned int ix=0; ix<size; ix++)
+			grid_tmp2(ix,iy) = grid(ix,iy);
+}
+
+// Compute a single diffusion step with forward (explicit) Euler
+void Diffusion::Euler(Real dt)
+{
+	const Real coeff = D*dt/dh2;
+	
+#pragma omp parallel for
+	for (unsigned int iy=1; iy<size-1; iy++)
+		for (unsigned int ix=1; ix<size-1; ix++)
+			grid_tmp(ix,iy) = grid(ix,iy) + coeff * (grid(ix-1,iy) + grid(ix,iy-1) - 4 * grid(ix,iy) + grid(ix+1,iy) + grid(ix,iy+1));
+	
+	grid.swap(grid_tmp);
+}
+
+void Diffusion::print()
+{
+	for (unsigned int iy=0; iy<size; iy++)
+	{
+		for (unsigned int ix=0; ix<size; ix++)
+			cout << fixed << setprecision(8) << grid(ix,iy) << "\t";
+		cout << endl;
+	}
+}
+
+void Diffusion::dump(string filename)
+{
+	ofstream myfile(filename);
+	if (myfile.is_open()) 
+	{
+		for (unsigned int iy=0; iy<size; iy++)
+		{
+			for (unsigned int ix=0; ix<size; ix++)
+				myfile << fixed << setprecision(8) << grid(ix,iy) << "\t";
+			myfile << endl;
+		}
+	}
+   	myfile.close();
+}
+
+void Diffusion::diagnostics(string filename, Real t)
+{
+	Real concentration = 0.;
+	
+	for (unsigned int iy=1; iy<size-1; iy++)
+		for (unsigned int ix=1; ix<size-1; ix++)
+			concentration += grid(ix,iy);
+	
+	ofstream myfile(filename, ios_base::app);
+	if (myfile.is_open()) 
+	{
+		myfile << t << "  " << concentration*4./(size-2)/(size-2) << endl;
+	}
+   	myfile.close();
+}

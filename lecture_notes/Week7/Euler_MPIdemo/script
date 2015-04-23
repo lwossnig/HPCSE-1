@@ -1,0 +1,5 @@
+mpirun -n  1  ./example1 > output01.txt
+mpirun -n 12  ./example1 > output12.txt
+mpirun -n 24  ./example1 > output24.txt
+mpirun -n 36  ./example1 > output36.txt
+mpirun -n 48  ./example1 > output48.txt

@@ -1,0 +1,99 @@
+/*
+ *  Matrix2D.h
+ *
+ *	Container class to store 2D grids of scalars
+ *
+ *  Created by Christian Conti on 11/12/12
+ *  Copyright 2012 ETH Zurich. All rights reserved.
+ *
+ */
+#pragma once
+#include <assert.h>
+#include <stdio.h>
+#include <cstdlib>
+#include <cmath>
+
+template <class DataType>  
+class Matrix2D
+{
+private:
+	DataType * m_pData;
+	unsigned int m_vSize[2];
+	size_t m_nElements;
+
+public:
+	~Matrix2D()
+	{
+		delete [] m_pData;
+	}
+	
+	Matrix2D(unsigned int nSizeX, unsigned int nSizeY):
+	m_pData(NULL),
+	m_nElements(0)
+	{
+		m_vSize[0] = nSizeX;
+		m_vSize[1] = nSizeY;
+		
+		m_nElements = nSizeX*nSizeY;
+		
+		m_pData = new DataType[m_nElements];
+		
+		assert(m_pData != NULL);
+	}
+	
+	Matrix2D& operator=(const Matrix2D& m)
+	{
+		assert(m_vSize[0] == m.m_vSize[0]);
+		assert(m_vSize[1] == m.m_vSize[1]);
+		
+		const int n = m_nElements;
+		for(int i=0; i<n; i++)
+			m_pData[i] = m.m_pData[i];
+		
+		return *this;
+	}
+	
+	// swap content with another Matrix2D of the same datatype and same size
+	inline void swap(Matrix2D<DataType>& m)
+	{
+		assert(m_vSize[0] == m.m_vSize[0]);
+		assert(m_vSize[1] == m.m_vSize[1]);
+		
+		std::swap(m_pData, m.m_pData);
+	}
+	
+	// Access operator
+	inline DataType& operator()(unsigned int ix, unsigned int iy) const
+	{
+		assert(ix<m_vSize[0]);
+		assert(iy<m_vSize[1]);
+		
+		return m_pData[iy*m_vSize[0] + ix];
+	}
+	
+	// Access operator - read only mode
+	inline const DataType& Read(unsigned int ix, unsigned int iy) const
+	{
+		assert(ix<m_vSize[0]);
+		assert(iy<m_vSize[1]);
+		
+		return m_pData[iy*m_vSize[0] + ix];
+	}
+	
+	// Access operator - single index
+	inline DataType& LinAccess(unsigned int i) const
+	{
+		assert(i<m_nElements);
+		
+		return m_pData[i];
+	}
+	
+	inline unsigned int getNumberOfElements() const
+	{
+		return m_nElements;
+	}	
+};
+
+
+
+

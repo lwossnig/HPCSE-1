@@ -1,0 +1,38 @@
+Sender: LSF System <lsfadmin@e1406>
+Subject: Job 2291984: <mpirun -n  1  ./example1 > output01.txt;mpirun -n 12  ./example1 > output12.txt;mpirun -n 24  ./example1 > output24.txt;mpirun -n 36  ./example1 > output36.txt;mpirun -n 48  ./example1 > output48.txt> in cluster <euler> Done
+
+Job <mpirun -n  1  ./example1 > output01.txt;mpirun -n 12  ./example1 > output12.txt;mpirun -n 24  ./example1 > output24.txt;mpirun -n 36  ./example1 > output36.txt;mpirun -n 48  ./example1 > output48.txt> was submitted from host <euler01> by user <chatzidp> in cluster <euler>.
+Job was executed on host(s) <24*e1406>, in queue <beta.4h>, as user <chatzidp> in cluster <euler>.
+                            <24*e1402>
+</cluster/home/chatzidp> was used as the home directory.
+</cluster/home/chatzidp/hpcse_mpi> was used as the working directory.
+Started at Thu Nov  6 22:04:04 2014
+Results reported on Thu Nov  6 22:04:12 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+mpirun -n  1  ./example1 > output01.txt
+mpirun -n 12  ./example1 > output12.txt
+mpirun -n 24  ./example1 > output24.txt
+mpirun -n 36  ./example1 > output36.txt
+mpirun -n 48  ./example1 > output48.txt
+
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :               3.74 sec.
+    Max Memory :             258 MB
+    Average Memory :         101.00 MB
+    Total Requested Memory : 49152.00 MB
+    Delta Memory :           48894.00 MB
+    (Delta: the difference between Total Requested Memory and Max Memory.)
+    Max Processes :          28
+    Max Threads :            77
+
+The output (if any) follows:
+

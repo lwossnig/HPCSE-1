@@ -1,0 +1,173 @@
+\documentclass[12pt]{scrbook}
+
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+%\usepackage[ngerman]{babel}
+\usepackage{mathrsfs}
+\usepackage{amsmath, amssymb, amsfonts, amsthm}
+\usepackage{array}
+\usepackage{cite}
+\usepackage{braket}
+\usepackage{dsfont}
+\usepackage{listings}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{framed}
+\usepackage{caption}
+\usepackage[automark]{scrpage2}
+%\usepackage[export]{adjustbox}
+\usepackage{verbatim}
+
+\usepackage{float}
+
+\newcommand{\changefont}[3]{\fontfamily{#1}\fontseries{#2}\fontshape{#3}\selectfont}
+
+\usepackage[hyperfigures =true ,linkcolor =black, urlcolor=blue, colorlinks =true, citecolor=black ,pdfauthor ={ Leonard Peter Wossnig},pdftitle ={exercises in Computational Physics},pdfcreator ={ pdfLaTeX }]{hyperref}
+
+\definecolor{mygray}{rgb}{0.98,0.98,0.98}
+\definecolor{darkgray}{rgb}{0.6,0.6,0.6}
+\definecolor{mygreen}{rgb}{0.0,0.5,0.0}
+\definecolor{myblue}{rgb}{0.0,0.0,0.5}
+%\definecolor{mypurple}{rgb}{0.5,0.0,0.5}
+
+\lstdefinelanguage[]{CodeBlocks}{classoffset=0, language=C++,commentstyle=\tiny\color{darkgray}, comment=[l]{//},morecomment=[s]{/*}{*/}, columns=flexible, basicstyle = \tiny, backgroundcolor=\color{mygray}, frame=single, keepspaces=false, keywordstyle=\color{red}, breaklines = false, aboveskip = 1.2em,belowskip = 1.5em, directivestyle=\color{mygreen}, ,classoffset=2, otherkeywords={(,),[,],<<,>>,++,--,=,+=,-=,;,&,&&,+,-,!,\{,\},::,<,>,\#}, classoffset=0, emph={bool, double, int, for, if, else, ifelse, return, void, namespace, using, const, float, long, }, emphstyle=\color{blue}, stringstyle = \color{darkgray}}
+
+
+
+\begin{document}
+
+\section{Exercise 5 - ICP - Leonard Wossnig}
+\subsection{Task 1.}
+The Code was implemented using a Sphere class
+\begin{lstlisting}[language=CodeBlocks] 
+
+\end{lstlisting}
+The results for a arbitrary time were approved through the sequential code (compare also graph).\\
+\begin{center}
+\includegraphics[width=\textwidth, keepaspectratio]{Spheres_in_box.pdf}
+\end{center}
+
+
+
+\subsection{Appendix}
+In the following i append the source code of some of the tasks:\\
+\begin{lstlisting}[language=CodeBlocks]
+  1 #include <iostream>
+  2 #include <vector>
+  3 #include <cmath>
+  4 #include <random>
+  5 #include <algorithm>
+  6 #include <fstream>
+  7 #include <functional>
+  8 //#define _DEBUG
+  9 
+ 10 typedef double value_type;
+ 11 typedef size_t size_type;
+ 12 
+ 13 class Sphere
+ 14 {
+ 15 
+ 16         private:
+ 17                 const value_type x_, y_, z_; // coordinates of sphere
+ 18                 const value_type R_; // Radius of spheres
+ 19 
+ 20         public:
+ 21                 Sphere(const value_type x = 0.,
+ 22                        const value_type y = 0.,
+ 23                        const value_type z = 0.,
+ 24                        const value_type R = 1.)
+ 25                 : x_(x), y_(y), z_(z), R_(R)
+ 26                 {};
+ 27 
+ 28                 value_type get_x_() const
+ 29                 {
+ 30                         return x_;
+ 31                 }
+ 32                 value_type get_y_() const
+ 33                 {
+ 34                         return y_;
+ 35                 }
+ 36                 value_type get_z_() const
+ 37                 {
+ 38                         return z_;
+ 39                 }
+ 40                 value_type get_R_() const
+ 41                 {
+ 42                         return R_;
+ 43                 }
+ 44 
+ 45 
+ 46 };
+ 47 
+ 48 value_type distance(Sphere x, Sphere y)
+ 49                 {
+ 50                         value_type distance = std::sqrt(
+ 51                                         (x.get_x_() - y.get_x_())*(x.get_x_() - y.get_x_()) +
+ 52                                         (x.get_y_() - y.get_y_())*(x.get_y_() - y.get_y_()) +
+ 53                                         (x.get_z_() - y.get_z_())*(x.get_z_() - y.get_z_())
+ 54                                         );
+ 55                         return distance;
+ 56                 }
+ 57 
+ 58 
+ 59 
+ 60 int main(int argc, char* argv[])
+ 61 {
+ 62 
+ 63     if (argc < 3)
+ 64     {
+ 65         std::cerr << "Usage: " << argv[0] << " L N seed" << std::endl;
+ 66         return 1;
+ 67     }
+ 68     const value_type L  = std::stod(argv[1]);
+ 69     const value_type n  = std::stod(argv[2]);
+ 70     const value_type seed = std::stod(argv[3]);
+ 71     //const size_type  N  = std::stoul(argv[4]);
+ 72 
+ 73 
+ 74     std::mt19937 mt(seed); // create an engine, alternatively use (time(NULL))
+ 75     std::uniform_real_distribution<double> ureal_d((0.+1.),(L-1.)); //random number between 0+R and L-R
+ 76 #ifdef _DEBUG
+ 77     std::ofstream out("average_distance.txt");
+ 78 #endif
+ 79     value_type trial_x, trial_y, trial_z;
+ 80     std::vector<Sphere> Space(0);
+ 81     int t(0), count(0); bool qa = false; value_type average_distance(0);
+ 82 
+ 83     for(size_type i = 0; i < n; i++)
+ 84     {
+ 85 
+ 86 
+ 87 
+ 88             // check if coordinates are already occupied
+ 89             t=1;
+ 90             while(t)
+ 91             {
+ 92 
+ 93 #ifdef _DEBUG
+ 94             std::cout << "in while\n";
+ 95 #endif
+ 96             // raise count for trials
+ 97             count++;
+ 98             // random points in range [0,L] per axis
+ 99             trial_x = ureal_d(mt);
+100             trial_y = ureal_d(mt);
+101             trial_z = ureal_d(mt);
+102             // check if overlap for global R!
+103             if( std::any_of( Space.cbegin(), Space.cend(), [&](Sphere i){
+104                                     return (
+105                                             ( std::sqrt( (i.get_x_() - trial_x) * (i.get_x_() - trial_x) +
+106                                                          (i.get_y_() - trial_y) * (i.get_y_() - trial_y) +
+107                                                          (i.get_z_() - trial_z) * (i.get_z_() - trial_z) ) <= 2 * i.get_R_() )
+108                                             );
+109                                     }
+110                                     )
+111                             )
+112               {t=1;}
+113             else
+114               {t=0;}
+115             if(count>=L*L*L)
+116             {
+
+\end{lstlisting}
+\end{document}
